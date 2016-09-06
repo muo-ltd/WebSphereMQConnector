@@ -1,0 +1,2 @@
+# WebSphereMQConnector
+Sample .Net WebSphereMQConnector
